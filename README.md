@@ -45,15 +45,15 @@ This project is an image processing application developed as part of the CMPT 12
 
 ## Installation
 
-- **Install the required packages**:
-```bash
-pip3 install pygame numpy
+Install the required packages:
+    ```
+    pip3 install pygame numpy
     ```
 
 ## Running the Project
 
 To run the application, execute the `main.py` file:
+    ```
+    python3 main.py
+    ```
 
-```bash
-python3 main.py
-```
