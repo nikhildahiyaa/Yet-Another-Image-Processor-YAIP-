@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is an image processing application developed as part of the CMPT 120 course at Simon Fraser University during Fall 2021. It allows users to apply various image manipulation techniques, such as filters, resizing, rotating images, and even a special feature to detect a fish in an image for a cat.
+This project is an image processing application developed as part of the CMPT 120 course at Simon Fraser University during Fall 2021. It allows users to apply various image manipulation techniques, such as filters, resizing, rotating images, and even a special feature to detect a fish in an image of a cat.
 
 ## Features
 
